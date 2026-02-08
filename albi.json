@@ -3,7 +3,7 @@
     "id": "tex-serie-gigante-1",
     "numero": 1,
     "titolo": "La Mano Rossa",
-    "immagine": "img/serie gigante/1 La Mano Rossa.jpg",
+    "immagine": "img/serie gigante/1.jpg",
     "data": "1 Ottobre 1958",
     "editore": "Edizioni Araldo",
     "serie": "Seconda Serie Gigante"
@@ -12,9 +12,7047 @@
     "id": "tex-serie-gigante-2",
     "numero": 2,
     "titolo": "Uno contro venti",
-    "immagine": "img/serie gigante/2 Uno contro venti.jpg",
+    "immagine": "img/serie gigante/2.jpg",
     "data": "1 Dicembre 1958",
     "editore": "Edizioni Araldo",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-3",
+    "numero": 3,
+    "titolo": "Fuorilegge",
+    "immagine": "img/serie gigante/3.jpg",
+    "data": "1 Febbraio 1959",
+    "editore": "Edizioni Araldo",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-4",
+    "numero": 4,
+    "titolo": "L'eroe del Messico",
+    "immagine": "img/serie gigante/4.jpg",
+    "data": "1 Aprile 1959",
+    "editore": "Edizioni Araldo",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-5",
+    "numero": 5,
+    "titolo": "Satania!",
+    "immagine": "img/serie gigante/5.jpg",
+    "data": "1 Giugno 1959",
+    "editore": "Edizioni Araldo",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-6",
+    "numero": 6,
+    "titolo": "Doppio gioco",
+    "immagine": "img/serie gigante/6.jpg",
+    "data": "1 Settembre 1959",
+    "editore": "Edizioni Araldo",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-7",
+    "numero": 7,
+    "titolo": "Il patto di sangue",
+    "immagine": "img/serie gigante/7.jpg",
+    "data": "1 Gennaio 1960",
+    "editore": "Edizioni Araldo",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-8",
+    "numero": 8,
+    "titolo": "Due contro cento",
+    "immagine": "img/serie gigante/8.jpg",
+    "data": "1 Marzo 1960",
+    "editore": "Edizioni Araldo",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-9",
+    "numero": 9,
+    "titolo": "L'ultima battaglia",
+    "immagine": "img/serie gigante/9.jpg",
+    "data": "1 Maggio 1960",
+    "editore": "Edizioni Araldo",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-10",
+    "numero": 10,
+    "titolo": "Il tranello",
+    "immagine": "img/serie gigante/10.jpg",
+    "data": "1 Luglio 1960",
+    "editore": "Edizioni Araldo",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-11",
+    "numero": 11,
+    "titolo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-12",
+    "numero": 12,
+    "titolo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-13",
+    "numero": 13,
+    "titolo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-14",
+    "numero": 14,
+    "titolo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-15",
+    "numero": 15,
+    "titolo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 16,
+    "titolo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 17,
+    "titolo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 18,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 19,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 20,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 21,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 22,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 23,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 24,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 25,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 26,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 27,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 28,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 29,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 30,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 31,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 32,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 33,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 34,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 35,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 36,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 37,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 38,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 39,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 40,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 41,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 42,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 43,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 44,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 45,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 46,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 47,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 48,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 49,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 50,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 51,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 52,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 53,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 54,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 55,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 56,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 57,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 58,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 59,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 60,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 61,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 62,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 63,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 64,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 65,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 66,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 67,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 68,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 69,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 70,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 71,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 72,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 73,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 74,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 75,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 76,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 77,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 78,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 79,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 80,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 81,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 82,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 83,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 84,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 85,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 86,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 87,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 88,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 89,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 90,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 91,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 92,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 93,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 94,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 95,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 96,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 97,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 98,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 99,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 100,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 101,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 102,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 103,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 104,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 105,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 106,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 107,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 108,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 109,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 110,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 111,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 112,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 113,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 114,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 115,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 116,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 117,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 118,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 119,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 120,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 121,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 122,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 123,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 124,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 125,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 126,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 127,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 128,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 129,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 130,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 131,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 132,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 133,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 134,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 135,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 136,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 137,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 138,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 139,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 140,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 141,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 142,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 143,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 144,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 145,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 146,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 147,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 148,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 149,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 150,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 151,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 152,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 153,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 154,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 155,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 156,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 157,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 158,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 159,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 160,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 161,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 162,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 163,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 164,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 165,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 166,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 167,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 168,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 169,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 170,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 171,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 172,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 173,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 174,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 175,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 176,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 177,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 178,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 179,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 180,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 181,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 182,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 183,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 184,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 185,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 186,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 187,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 188,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 189,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 190,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 191,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 192,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 193,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 194,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 195,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 196,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 197,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 198,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 199,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 200,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 201,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 202,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 203,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 204,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 205,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 206,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 207,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 208,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 209,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 210,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 211,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 212,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 213,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 214,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 215,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 216,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 217,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 218,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 219,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 220,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 221,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 222,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 223,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 224,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 225,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 226,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 227,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 228,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 229,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 230,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 231,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 232,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 233,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 234,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 235,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 236,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 237,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 238,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 239,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 240,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 241,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 242,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 243,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 244,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 245,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 246,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 247,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 248,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 249,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 250,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 251,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 252,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 253,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 254,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 255,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 256,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 257,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 258,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 259,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 260,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 261,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 262,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 263,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 264,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 265,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 266,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 267,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 268,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 269,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 270,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 271,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 272,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 273,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 274,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 275,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 276,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 277,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 278,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 279,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 280,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 281,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 282,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 283,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 284,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 285,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 286,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 287,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 288,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 289,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 290,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 291,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 292,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 293,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 294,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 295,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 296,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 297,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 298,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 299,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 300,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 301,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 302,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 303,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 304,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 305,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 306,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 307,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 308,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 309,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 310,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 311,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 312,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 313,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 314,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 315,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 316,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 317,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 318,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 319,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 320,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 321,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 322,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 323,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 324,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 325,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 326,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 327,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 328,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 329,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 330,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 331,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 332,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 333,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 334,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 335,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 336,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 337,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 338,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 339,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 340,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 341,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 342,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 343,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 344,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 345,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 346,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 347,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 348,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 349,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 350,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 351,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 352,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 353,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 354,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 355,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 356,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 357,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 358,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 359,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 360,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 361,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 362,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 363,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 364,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 365,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 366,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 367,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 368,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 369,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 370,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 371,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 372,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 373,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 374,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 375,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 376,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 377,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 378,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 379,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 380,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 381,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 382,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 383,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 384,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 385,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 386,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 387,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 388,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 389,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 390,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 391,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 392,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 393,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 394,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 395,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 396,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 397,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 398,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 399,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 400,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 401,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 402,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 403,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 404,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 405,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 406,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 407,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 408,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 409,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 410,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 411,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 412,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 413,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 414,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 415,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 416,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 417,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 418,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 419,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 420,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 421,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 422,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 423,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 424,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 425,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 426,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 427,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 428,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 429,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 430,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 431,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 432,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 433,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 434,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 435,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 436,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 437,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 438,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 439,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 440,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 441,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 442,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 443,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 444,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 445,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 446,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 447,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 448,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 449,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 450,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 451,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 452,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 453,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 454,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 455,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 456,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 457,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 458,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 459,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 460,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 461,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 462,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 463,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 464,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 465,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 466,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 467,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 468,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 469,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 470,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 471,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 472,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 473,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 474,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 475,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 476,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 477,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 478,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 479,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 480,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 481,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 482,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 483,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 484,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 485,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 486,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 487,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 488,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 489,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 490,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 491,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 492,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 493,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 494,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 495,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 496,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 497,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 498,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 499,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 500,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 501,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 502,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 503,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 504,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 505,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 506,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 507,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 508,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 509,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 510,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 511,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 512,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 513,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 514,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 515,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 516,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 517,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 518,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 519,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 520,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 521,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 522,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 523,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 524,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 525,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 526,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 527,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 528,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 529,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 530,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 531,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 532,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 533,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 534,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 535,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 536,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 537,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 538,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 539,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 540,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 541,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 542,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 543,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 544,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 545,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 546,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 547,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 548,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 549,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 550,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 551,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 552,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 553,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 554,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 555,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 556,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 557,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 558,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 559,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 560,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 561,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 562,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 563,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 564,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 565,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 566,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 567,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 568,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 569,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 570,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 571,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 572,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 573,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 574,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 575,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 576,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 577,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 578,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 579,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 580,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 581,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 582,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 583,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 584,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 585,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 586,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 587,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 588,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 589,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 590,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 591,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 592,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 593,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 594,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 595,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 596,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 597,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 598,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 599,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 600,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 601,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 602,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 603,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 604,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 605,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 606,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 607,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 608,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 609,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 610,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 611,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 612,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 613,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 614,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 615,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 616,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 617,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 618,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 619,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 620,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 621,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 622,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 623,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 624,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 625,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 626,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 627,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 628,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 629,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 630,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 631,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 632,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 633,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 634,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 635,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 636,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 637,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 638,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 639,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 640,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 641,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 642,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 643,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 644,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 645,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 646,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 647,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 648,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 649,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 650,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 651,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 652,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 653,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 654,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 655,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 656,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 657,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 658,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 659,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 660,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 661,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 662,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 663,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 664,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 665,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 666,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 667,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 668,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 669,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 670,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 671,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 672,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 673,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 674,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 675,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 676,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 677,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 678,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 679,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 680,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 681,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 682,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 683,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 684,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 685,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 686,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 687,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 688,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 689,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 690,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 691,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 692,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 693,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 694,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 695,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 696,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 697,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 698,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 699,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 700,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 701,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 702,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 703,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 704,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 705,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 706,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 707,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 708,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 709,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 710,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 711,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 712,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 713,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 714,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 715,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 716,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 717,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 718,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 719,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 720,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 721,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 722,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 723,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 724,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 725,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 726,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 727,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 728,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 729,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 730,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 731,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 732,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 733,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 734,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 735,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 736,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 737,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 738,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 739,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 740,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 741,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 742,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 743,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 744,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 745,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 746,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 747,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 748,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 749,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 750,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 751,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 752,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 753,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 754,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 755,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 756,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 757,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 758,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 759,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 760,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 761,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 762,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 763,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 764,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 765,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 766,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 767,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 768,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 769,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 770,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 771,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 772,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 773,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 774,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 775,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 776,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 777,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 778,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 779,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 780,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 781,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 782,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 783,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-gig-${i}",
+    "numero": 784,
+    "titollo": "",
+    "immagine": "img/serie gigante/${i}.jpg",
+    "data": "",
+    "editore": "",
     "serie": "Seconda Serie Gigante"
   }
 ]
