@@ -26,6 +26,13 @@
             </div>
     </main>
 
-    <script src="app.js"></script>
+    <script type="module" src="app.js"></script>
+    <div id="modal-dettagli" class="fixed inset-0 bg-black bg-opacity-50 hidden items-center justify-center z-50 p-4">
+    <div class="bg-white rounded-lg max-w-md w-full p-6 relative shadow-2xl">
+        <button onclick="chiudiModal()" class="absolute top-2 right-4 text-2xl font-bold text-gray-600">&times;</button>
+        <div id="modal-content">
+            </div>
+    </div>
+</div>
 </body>
 </html>
