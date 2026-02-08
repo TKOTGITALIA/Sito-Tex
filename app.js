@@ -15,24 +15,34 @@ const db = getFirestore(app);
 let datiAlbi = []; 
 
 async function caricaFumetti() {
-    const response = await fetch('albi.json');
-    datiAlbi = await response.json();
     const griglia = document.getElementById('griglia-albi');
+    const querySnapshot = await getDocs(collection(db, "albi-tex"));
+    
+    datiAlbi = [];
+    griglia.innerHTML = "";
 
-    datiAlbi.forEach(albo => {
-        const posseduto = localStorage.getItem(albo.id) === 'true';
-        const card = document.createElement('div');
-        card.className = `p-4 border rounded-lg shadow-sm transition-colors cursor-pointer ${posseduto ? 'bg-green-100' : 'bg-white'}`;
+    querySnapshot.forEach((docSnap) => {
+        datiAlbi.push(docSnap.data());
+    });
+
+    datiAlbi.sort((a, b) => a.numero - b.numero);
+
+    datiAlbi.forEach((albo) => {
+        const isPosseduto = localStorage.getItem(albo.id) === 'true';
         
+        const card = document.createElement('div');
+        card.className = `p-4 border rounded-lg shadow-sm transition-colors cursor-pointer ${isPosseduto ? 'bg-green-100 border-green-500' : 'bg-white'}`;
+        card.id = `card-${albo.id}`;
+
         card.onclick = (e) => {
             if (e.target.type !== 'checkbox') apriModal(albo.id);
         };
 
         card.innerHTML = `
-            <img src="${albo.immagine}" alt="${albo.titolo}" class="w-full h-auto mb-2 rounded" loading="lazy">
+            <img src="${albo.immagine}" class="w-full h-auto mb-2 rounded" loading="lazy">
             <h3 class="font-bold text-sm text-center">Numero ${albo.numero}</h3>
             <label class="flex items-center justify-center space-x-2 cursor-pointer mt-2">
-                <input type="checkbox" ${posseduto ? 'checked' : ''} 
+                <input type="checkbox" ${isPosseduto ? 'checked' : ''} 
                     onchange="togglePossesso('${albo.id}', this)" 
                     class="form-checkbox h-4 w-4 text-red-600">
                 <span class="text-xs uppercase font-semibold">In collezione</span>
@@ -40,6 +50,7 @@ async function caricaFumetti() {
         `;
         griglia.appendChild(card);
     });
+
     aggiornaStats();
 }
 
@@ -61,22 +72,27 @@ function apriModal(id) {
     modal.classList.add('flex');
 }
 
-function chiudiModal() {
+window.chiudiModal = () => {
     const modal = document.getElementById('modal-dettagli');
     modal.classList.add('hidden');
     modal.classList.remove('flex');
 }
 
-function togglePossesso(id, checkbox) {
+window.togglePossesso = (id, checkbox) => {
     localStorage.setItem(id, checkbox.checked);
+
     const card = checkbox.closest('div');
+    
     if (checkbox.checked) {
-        card.classList.replace('bg-white', 'bg-green-100');
+        card.classList.remove('bg-white');
+        card.classList.add('bg-green-100', 'border-green-500');
     } else {
-        card.classList.replace('bg-green-100', 'bg-white');
+        card.classList.remove('bg-green-100', 'border-green-500');
+        card.classList.add('bg-white');
     }
+    
     aggiornaStats();
-}
+};
 
 function aggiornaStats() {
     const totale = datiAlbi.length;
