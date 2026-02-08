@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Caricamento dati Tex su Firebase...</h1>
+    <div id="status">In attesa...</div>
+
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+        import { getFirestore, collection, doc, setDoc } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
+
+        // Incolla qui la tua configurazione Firebase (la stessa di GT7)
+        const firebaseConfig = {
+            apiKey: "IL_TUO_API_KEY",
+            authDomain: "IL_TUO_PROGETTO.firebaseapp.com",
+            projectId: "IL_TUO_PROGETTO",
+            storageBucket: "IL_TUO_PROGETTO.appspot.com",
+            messagingSenderId: "...",
+            appId: "..."
+        };
+
+        const app = initializeApp(firebaseConfig);
+        const db = getFirestore(app);
+
+        async function uploadDati() {
+            const status = document.getElementById('status');
+            try {
+                // Legge il tuo file albi.json
+                const response = await fetch('albi.json');
+                const albi = await response.json();
+                
+                status.innerText = `Caricamento di ${albi.length} albi in corso...`;
+
+                for (const albo of albi) {
+                    // Usiamo l'ID che abbiamo generato (es: tex-gig-3) come nome del documento
+                    await setDoc(doc(db, "albi-tex", albo.id), albo);
+                    console.log(`Caricato: ${albo.id}`);
+                }
+
+                status.innerText = "✅ Caricamento completato con successo!";
+            } catch (error) {
+                console.error(error);
+                status.innerText = "❌ Errore: " + error.message;
+            }
+        }
+
+        uploadDati();
+    </script>
+</body>
+</html>
