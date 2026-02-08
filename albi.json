@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tex-serie-gigante-1",
+    "numero": 1,
+    "titolo": "La Mano Rossa",
+    "immagine": "img/serie gigante/1 La Mano Rossa.jpg",
+    "data": "1 Ottobre 1958",
+    "editore": "Edizioni Araldo",
+    "serie": "Seconda Serie Gigante"
+  },
+  {
+    "id": "tex-serie-gigante-2",
+    "numero": 2,
+    "titolo": "Uno contro venti",
+    "immagine": "img/serie gigante/2 Uno contro venti.jpg",
+    "data": "1 Dicembre 1958",
+    "editore": "Edizioni Araldo",
+    "serie": "Seconda Serie Gigante"
+  }
+]
